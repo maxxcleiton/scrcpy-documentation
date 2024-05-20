@@ -1,5 +1,7 @@
 # Como criar atalhos scrcpy com fio/sem fio
 
+![Print atalhos scrcpy](/assets/screenshots/atalhos-scrcpy.png)
+
 ## O que é o scrcpy
 
 É um utilitário que espelha a tela de seu Android no computador, está disponível nas versões Windows e Linux.
