@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Primeiro Dispositivo [USB]
+Exec=/bin/sh -c "~/Scripts-scrcpy/scrcpy-usb.sh"
+Terminal=true
+Type=Application

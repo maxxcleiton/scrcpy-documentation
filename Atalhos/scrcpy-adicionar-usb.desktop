@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Adicionar Dispositivo [USB]
+Exec=scrcpy -d
+Terminal=true
+Type=Application
